@@ -3,9 +3,9 @@ definePageMeta({
   layout: "landing",
 });
 
-const TeamImg1 = "https://source.unsplash.com/IF9TK5Uy-KI";
-const TeamImg2 = "https://source.unsplash.com/iEEBWgY_6lA";
-const TeamImg3 = "https://source.unsplash.com/ZHvM3XIOHoE";
+const TeamImg1 = "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=480&h=560&fit=crop";
+const TeamImg2 = "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=580&h=580&fit=crop";
+const TeamImg3 = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=580&h=580&fit=crop";
 
 const team = [
   {

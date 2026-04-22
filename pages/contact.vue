@@ -27,8 +27,8 @@ definePageMeta({
           </div>
           <div class="flex items-center mt-2 space-x-2 text-gray-600">
             <Icon class="text-gray-400 w-4 h-4" name="uil:envelope" /><a
-              href="mailto:jakobaichmayr@gmail.com"
-              >jakobaichmayr@gmail.com</a
+              href="mailto:m@example.com"
+              >m@example.com</a
             >
           </div>
           <!-- <div class="flex items-center mt-2 space-x-2 text-gray-600">
